@@ -9,20 +9,20 @@ Note that there are a few ways you can work on a repository that is created on G
 
 ## Getting started
 
-1. Clone this repo into your `wd/classwork` folder.
-2. Make sure you're in the habit of doing `cd REPONAME` after you clone!
-3. Then open this README.md file in your IDE.
+1. Make sure you cd into the right folder first: `cd ~/wd/classwork` (think about this command; I won't always give it to you)
+2. Now clone it: `git clone URL` (make sure you don't type `URL`, use your own URL).
+3. Make sure you're in the habit of doing `cd REPONAME` after you clone!
+4. Then open this `README.md` file in your IDE.
 
 ## Practicing the git flow
 
-Remember, the usual flow is to **edit** --> **add** --> **commit** --> **push**
-
+Remember, the usual flow is to **edit** --> **add** --> **commit** --> **push**. Let's try it!
 Go ahead and type your first name on this line below. Replace the `X` with your name.
 
 My first name is X.
 
-Great! You made an edit! Now let's add/commit/push.
-Type the command you see below. Don't copy/paste it.
+Great! You made an edit! 
+In your terminal, type the command you see below. Don't copy/paste it.
 You'll want to have it memorized, and the way you memorize it is by typing it:
 
 git status
@@ -52,11 +52,11 @@ git push
 If you reload the repo on Github.com, you should see your name in the README file!
 
 Alright, first commit done. Let's have some more fun.
-On the line below, replace the X with your last name:
+Here in the file editor, on the line below, replace the X with your last name:
 
 My last name is X.
 
-Now try this command:
+Now try this command in your terminal:
 
 base64 /dev/urandom | head -c 100 > favorites.txt
 
