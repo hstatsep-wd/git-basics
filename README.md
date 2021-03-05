@@ -45,6 +45,7 @@ Sweet! For proof that it worked, you can type this command:
 
 git log
 
+Remember, to get out of git log, press q to quit. 
 Let's go ahead and push it with this command:
 
 git push
