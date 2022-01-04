@@ -1,4 +1,4 @@
-# Git Practice
+# Git Basics
 
 ## Before we begin
 
