@@ -9,7 +9,7 @@ Note that there are a few ways you can work on a repository that is created on G
 
 ## Getting started
 
-1. Make sure you cd into the right folder first: `cd ~/wd/classwork` (think about this command; I won't always give it to you)
+1. Make sure you cd into the right folder first: `cd wd/classwork` (think about this command; I won't always give it to you)
 2. Now clone it: `git clone URL` (make sure you don't type `URL`, use your own URL).
 3. Make sure you're in the habit of doing `cd REPONAME` after you clone!
 4. Then open this `README.md` file in your IDE.
@@ -76,7 +76,9 @@ Now try this command again (or up-arrow twice!):
 
 git status
 
-See how README.md is green and favorites.txt is red? That means ONLY the README will be committed, but favorites won't!
+See how README.md is green and fav
+
+orites.txt is red? That means ONLY the README will be committed, but favorites won't!
 This is super helpful when you're working on multiple files and maybe some aren't at a good stopping point yet.
 Let's go ahead and commit whatever is on the stage:
 
