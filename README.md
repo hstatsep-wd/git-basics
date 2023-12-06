@@ -76,9 +76,7 @@ Now try this command again (or up-arrow twice!):
 
 git status
 
-See how README.md is green and fav
-
-orites.txt is red? That means ONLY the README will be committed, but favorites won't!
+See how README.md is green and favorites.txt is red? That means ONLY the README will be committed, but favorites won't!
 This is super helpful when you're working on multiple files and maybe some aren't at a good stopping point yet.
 Let's go ahead and commit whatever is on the stage:
 
